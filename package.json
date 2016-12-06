@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "png-word": "0.0.7",
+    "random-word": "brighthas/random-word"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "database.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
